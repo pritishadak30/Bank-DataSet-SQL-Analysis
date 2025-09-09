@@ -1,13 +1,3 @@
-Perfect 👍 Thanks for sharing details. Since your GitHub project is a **SQL + CSV-based banking database system**, I’ll prepare a **README.md** that:
-
-* Explains the project clearly,
-* Lists the uploaded CSV tables,
-* Highlights use cases (queries, insights),
-* Avoids putting raw code/queries (as per your instruction).
-
-Here’s a clean and professional draft:
-
----
 
 # 🏦 MyBankDB – Banking Database Project
 
